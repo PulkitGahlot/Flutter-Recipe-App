@@ -143,6 +143,15 @@ Ensure you have the Flutter SDK installed on your machine. For installation inst
 
 ---
 
+---
+
+## Download the app & begin Cooking some Delicious Meals
+
+- [Meals App | Flutter Recipe Guide]()
+
+Or just scan the QR Code for a direct download.
+
+
 ## 👨‍💻 Author
 
 Hi, I'm **Pulkit Gahlot**, a cyber security enthusiast and passionate to be an ethical hacker with a knack of Application development using Flutter and Dart.
