@@ -130,7 +130,7 @@ Ensure you have the Flutter SDK installed on your machine. For installation inst
     ```
 2.  **Navigate to the project directory:**
     ```sh
-    cd meals-app
+    cd Flutter-Recipe-App
     ```
 3.  **Install dependencies:**
     ```sh
@@ -151,7 +151,8 @@ Ensure you have the Flutter SDK installed on your machine. For installation inst
 
 Or just scan the QR Code for a direct download.
 
-![QR Code for Direct Download](assets/app_qr/meals_qr.png)
+<!-- ![QR Code for Direct Download](assets/app_qr/meals_qr.png) -->
+<img src="assets/app_qr/meals_qr.png" alt="QR Code for Direct Download" width="300" height="300" >
 
 ---
 
