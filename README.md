@@ -126,7 +126,7 @@ Ensure you have the Flutter SDK installed on your machine. For installation inst
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/your_username/meals-app.git](https://github.com/your_username/meals-app.git)
+    git clone https://github.com/PulkitGahlot/Flutter-Recipe-App.git
     ```
 2.  **Navigate to the project directory:**
     ```sh
