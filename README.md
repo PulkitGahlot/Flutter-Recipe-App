@@ -2,11 +2,6 @@
 
 A dynamic and intuitive Flutter application for discovering and organizing meal recipes. This app provides a seamless user experience for browsing meals by category, viewing detailed cooking instructions, managing a personal list of favorite meals, and filtering recipes based on dietary preferences. It serves as an excellent example of a well-structured Flutter application, effectively utilizing the Riverpod package for state management.
 
-<br>
-
-![Meals App Demo GIF](https://i.imgur.com/your-demo-gif-url.gif)
-*Note: You should replace the URL above with a link to your own screen recording or GIF.*
-
 ---
 
 ## 📋 Table of Contents
@@ -66,7 +61,7 @@ This project is built with a focus on clean code, scalability, and efficient sta
 
 The project is organized into a modular and easy-to-understand directory structure.
 
-'''
+```
     lib/
     |
     |-- main.dart               # App entry point, theme setup
@@ -95,7 +90,7 @@ The project is organized into a modular and easy-to-understand directory structu
     |   |-- main_drawer.dart        # Side drawer for navigation (to Filters screen)
     |   |-- meal_item_trait.dart    # Reusable widget for displaying meal attributes (e.g., duration)
     |   |-- meal_item.dart          # UI for a single meal in a list
-'''
+```
 
 ---
 
@@ -150,7 +145,7 @@ Ensure you have the Flutter SDK installed on your machine. For installation inst
 
 ## 👨‍💻 Author
 
-Hi, I'm **Pulkit Gahlot**, a cyber security enthusiast and passionate to be an ethical hacker.
+Hi, I'm **Pulkit Gahlot**, a cyber security enthusiast and passionate to be an ethical hacker with a knack of Application development using Flutter and Dart.
 
 “A good hacker is the one who breaks systems, to build secure ones.”
 
